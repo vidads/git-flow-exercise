@@ -18,4 +18,4 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
-[Chocolate Soup](recipe/jan/chocolate-soup.md)
+[Roast Pork and Pickled Cucumber Sandwich](recipe/roast-pork-and-pickled-cucumber-sandwich.md)
